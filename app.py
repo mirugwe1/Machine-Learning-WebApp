@@ -4,6 +4,7 @@ import os
 import pandas_profiling
 from streamlit_pandas_profiling import st_profile_report
 
+
 with st.sidebar:
     st.image("https://www.onepointltd.com/wp-content/uploads/2020/03/inno2.png")
     st.title("AutoML")
@@ -29,7 +30,10 @@ if choice == "Profiling":
     st_profile_report(profile_report)
 
 if choice == "Modelling":
-    pass
+    #pass
+    st.line_chart(df["total_bill"])
+   
+
 
 if choice == "Download":
     pass
