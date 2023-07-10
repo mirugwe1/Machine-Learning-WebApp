@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f0c8c9-1657-49d6-8da1-b1738c5724d8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Machine-Learning-WebApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machine-Learning-WebApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +105,7 @@
       <updated>1688637145428</updated>
       <workItem from="1688637172993" duration="1764000" />
       <workItem from="1688965558678" duration="653000" />
-      <workItem from="1688991560578" duration="867000" />
+      <workItem from="1688991560578" duration="2248000" />
     </task>
     <servers />
   </component>
